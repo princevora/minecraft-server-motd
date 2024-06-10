@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "minecraft-protocol": "^1.47.0",
+    "minecraft-server-util": "^5.4.4"
+  },
+  "name": "minecraft-server-motd",
+  "description": "MSM Shows minecraft server MOTD and server infos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
