@@ -20,7 +20,7 @@ interface ServerInfo {
  * @param {number} port 
  * @returns {Promise<ServerInfo>}
  */
-async function getServerInfo(host: string = "play.hypixel.net", port: number = 25565): Promise<ServerInfo> {
+async function getServerInfo(host: string, port: number = 25565): Promise<ServerInfo> {
     try {
         const result = await util.status(host, port);
 
