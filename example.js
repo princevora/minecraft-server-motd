@@ -1,5 +1,5 @@
 // Import the protocol module from index (root)
-const protocol = require("./");
+import protocol from "./";
 
 // Create a variable
 protocol("play.hypixel.net")

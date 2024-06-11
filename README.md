@@ -12,10 +12,20 @@ or
 npm install 
 ```
 
+# Before you start your project you will need to compile the typescript 
+```js
+npm run build
+```
+
+# After the successfull build Run the following command
+```js
+npm run start
+```
+
 # Usage 
 ```js
 // Import the protocol module from index (root)
-const protocol = require("./");
+import protocol from "./";
 
 // Create a variable
 const host = "play.hypixel.net";
