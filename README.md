@@ -18,7 +18,7 @@ npm install
 ```
 
 # Before you start your project you will need to compile the typescript 
-```js
+```
 npm run build
 ```
 
