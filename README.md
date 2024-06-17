@@ -13,7 +13,7 @@ npm i
 
 or 
 
-```js
+```
 npm install 
 ```
 
