@@ -1,6 +1,9 @@
 # minecraft-server-motd
 MSM Shows minecraft server MOTD and server infos
 
+# Install the Package
+
+
 # Commands
 ```js
 npm i 
