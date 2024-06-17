@@ -7,7 +7,7 @@ npm i minecraft-server-motd
 ```
 
 # Commands
-```js
+```
 npm i 
 ```
 
