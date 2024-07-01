@@ -22,12 +22,12 @@ npm install
 npm run build
 ```
 
-# After the successfull build Run the following command
+## After the successfull build Run the following command
 ```
 npm run start
 ```
 
-# Usage 
+## Usage 
 ```js
 // Import the protocol module from index (root)
 import protocol from "./";
