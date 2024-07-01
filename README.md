@@ -23,7 +23,7 @@ npm run build
 ```
 
 # After the successfull build Run the following command
-```js
+```
 npm run start
 ```
 
